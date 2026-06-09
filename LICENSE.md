@@ -1,4 +1,4 @@
-# 
+# 精英 Inkscape 扩展 Mac OS版 | 原生 Inkscape 扩展 PC Windows版。集成 矢量图层 和 RAW处理，跨平台性能最大化。
 
 
 
